@@ -1,0 +1,6 @@
+framework module Pods_SmoothRideTests {
+  umbrella header "Pods-SmoothRideTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
